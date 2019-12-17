@@ -1,4 +1,4 @@
-baseURL: "https://kubemap.dev/"
+baseURL: "https://vigilant-wilson-6bdd90.netlify.com/"
 languageCode: "en-us"
 title: "Kubernetes Objects Map"
 theme: "kube"
